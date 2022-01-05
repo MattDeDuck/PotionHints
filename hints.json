@@ -1,0 +1,1273 @@
+{
+    "BerserkerNeedStrength": {
+        "qText": "Alchemist, I need a potion that gives me strength and sends me into a battle frenzy, so I can fight like ten men. Do you have something like that?",
+        "desiredEffects": [
+            "Berserker"
+        ],
+        "hint": "This customer needs some ferocious strength"
+    },
+    "CharmLoveSpell": {
+        "qText": "I have a crush on a young man. He doesn't feel the same, and that drives me crazy. I need a potion that will help me win his heart.",
+        "desiredEffects": [
+            "Charm"
+        ],
+        "hint": "You need to influence his heart with an attractive potion"
+    },
+    "CropAppleTrees": {
+        "qText": "My apple trees produced very few apples this year. What will I sell at market now? Do you have a potion that will produce a better apple harvest?",
+        "desiredEffects": [
+            "Crop"
+        ],
+        "hint": "You will need to help with the quality rather than quantity for this one"
+    },
+    "CropsAndWitch": {
+        "qText": "A nasty witch has gotten into the habit of flying over the wheat fields and scaring the peasants. That's fine, she can fly, but she casts her spells and ruins the crops! Anyway, I need a potion so I can catch her in the air and scold her.",
+        "desiredEffects": [
+            "Fly",
+            "Bounce"
+        ],
+        "hint": "This customer needs something to rise or bound into the air"
+    },
+    "ExplosionAttackOnBanditCamp": {
+        "qText": "Hello, Alchemist! Today the city guards are going to ambush some bandits. I need an exploding potion. I'll throw it when those scum are sitting around their campfire.",
+        "desiredEffects": [
+            "Explosion"
+        ],
+        "hint": "A big boom is quite handy"
+    },
+    "FireballWizard": {
+        "qText": "Greetings. I'm preparing to battle a wizard that can throw fireballs. I need to somehow reinforce my shield, so it doesn't melt at the worst possible moment.",
+        "desiredEffects": [
+            "Frost",
+            "StoneSkin"
+        ],
+        "hint": "This customer needs protection from the heat"
+    },
+    "FireBurnStumps": {
+        "qText": "I finished digging up stumps on my field and was planning to burn them to fertilize the soil with ash. But then, as luck would have it, it started raining today, and all the stumps got soaked! I need to plow the field this week. Help me out!",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "To quickly make things dry, you need some heat"
+    },
+    "GrowthBerriesInGarden": {
+        "qText": "I planted berries in my garden. Now I can't wait for them to grow and bear fruit. Do you have anything that will help them grow faster?",
+        "desiredEffects": [
+            "Growth",
+            "Crop"
+        ],
+        "hint": "You can help with the quality or quantity for this"
+    },
+    "HallucinationWantedAlive": {
+        "qText": "Our squad has orders to capture a group of bandits and bring them to town where they will be tried for their crimes. Give me a potion that will help me stupefy the bandits. Then we can tie them up without too much resistance.",
+        "desiredEffects": [
+            "Hallucinations"
+        ],
+        "hint": "Make the bandits have some illusions"
+    },
+    "HealLittlePuppy": {
+        "qText": "Yesterday I found a stray puppy outside. When I brought it home, I saw that its back leg was injured. Do you have a healing cream or medicine for my pet?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "You need to help cure the pain the puppy is in"
+    },
+    "HealNightWatch": {
+        "qText": "Hello! I need a healing potion that is guaranteed to help me if an enemy sword suddenly stabs me in the side. And that's not the worst thing that can happen to you on the night watch...Well, can you suggest anything?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "The pain needs to be taken away with a cure"
+    },
+    "InvisibilityDateWithLover": {
+        "qText": "Tomorrow I'm seeing a...friend. But my husband is suspicious and won't let me out of his sight. He's so jealous! I need a potion that will allow me to slip out of the house unnoticed.",
+        "desiredEffects": [
+            "Invisibility"
+        ],
+        "hint": "She needs something to not be seen through her husbands eyes"
+    },
+    "LibidoLoveGod": {
+        "qText": "Hi. So, I went to the brothel...but let's just say I wasn't up to the mark. The lady even laughed in my face...Now I plan to show up again and show her what a man I truly am. Can you give me a potion that makes me a god of love?",
+        "desiredEffects": [
+            "Libido"
+        ],
+        "hint": "Something to increase the sexual desire towards her"
+    },
+    "LightningKillGhoul": {
+        "qText": "I'm hunting an ancient ghoul. Arrows bounce off it, and it feels neither heat nor cold. People say it's immortal, but I saw it run into its lair to escape a storm. It's afraid of thunder and lightning! Give me a potion that harnesses that element, and I swear I can destroy this monster.",
+        "desiredEffects": [
+            "Lightning"
+        ],
+        "hint": "Harness the electricity shooting down from the sky"
+    },
+    "LightPaintHouse": {
+        "qText": "I wanted to paint my house to make it more unique. I thought it would be cool to paint the walls with glow-in-the-dark paint! Do you have a potion that makes paint glow in the dark?",
+        "desiredEffects": [
+            "Light"
+        ],
+        "hint": "A paint that embodies luminescence"
+    },
+    "ManaHealerWoman": {
+        "qText": "Hello, Alchemist. I'm a healer, and I need a potion to restore my magical powers. Can you help me?",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help restore their spell-casting ability"
+    },
+    "MermanLake": {
+        "qText": "Children who wander into the forest to play by the lake have started going missing of late. The villagers are certain it's a merman. I've been asked to deal with the beast. I need to reinforce my sword to defeat this scum. I heard mermen flee at the sound of thunder...",
+        "desiredEffects": [
+            "Lightning"
+        ],
+        "hint": "Help him imbue his sword with the power of electricity from the sky"
+    },
+    "PoisonFoxMenace": {
+        "qText": "The foxes are getting into my chickens! If they keep this up, I'll be left with a coop and a rooster. I decided to scatter some poison bait around.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Maybe a toxic substance can take care of the foxes..."
+    },
+    "RustedDoor": {
+        "qText": "The metal door from my barn rusted, and now I can't get inside. I need a potion that will help me open that damn door.",
+        "desiredEffects": [
+            "Explosion",
+            "Acid"
+        ],
+        "hint": "A big boom can help. However you can also corrode the door to enter..."
+    },
+    "SleepSpookedChildren": {
+        "qText": "My children can't sleep at night. They're constantly worried about monsters behind the window or under the bed. It doesn't matter how much I try to calm them down. Do you have a sleeping potion for my little ones?",
+        "desiredEffects": [
+            "Sleep"
+        ],
+        "hint": "A potion that helps them rest overnight"
+    },
+    "SlowDownCrazyChikens": {
+        "qText": "My chickens have gone crazy! They can't stand still, constantly running around the yard. When I need to cook chicken, I can't even catch one. Can I put something in their food to slow them down?",
+        "desiredEffects": [
+            "SlowDown"
+        ],
+        "hint": "You need to help reduce the speed of these chickens"
+    },
+    "VisionInvisibleMonster": {
+        "qText": "I was asked to deal with a monster that's been attacking travelers at night. They say it's invisible. I don't know if that's true, but I could use a potion that allows me to see through invisibility.",
+        "desiredEffects": [
+            "SharpVision"
+        ],
+        "hint": "If only there was a way for their eyes to see what is magical"
+    },
+    "Brewer_1_HealBurnedTongue": {
+        "qText": "Good afternoon! Yesterday at a friend's party I burned my tongue on some hot soup. Now I can't taste a thing, and I'm a brewer! I need to be able to check the quality of my product. My tongue is useless now. Do you have a healing tincture of some kind?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A potion to cure the blisters on the tongue"
+    },
+    "Brewer_2_FireBeer": {
+        "qText": "Greetings! I had a brilliant idea yesterday: to brew a beer that warms your bones even on the coldest days. People would pay a pretty penny for it in the northern provinces! The recipe is almost ready, but for the beer to always be warm, I need something like liquid fire...Do you have anything like that?",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "A little bit of heat is needed for this beer"
+    },
+    "Brewer_3_FrostBeer": {
+        "qText": "Hello! As you know, good beer should be enjoyed cold. But it's hard to keep it that way in the summer or in southern climes. I want to brew a beer that will always stay cold! Do you have a potion that can help?",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "A little bit of cold is needed for this beer"
+    },
+    "Brewer_4_LibidoBeer": {
+        "qText": "Greetings! Madam Twerks, the owner of the local brothel, came to me and asked me to come up with a special beer for her establishment that helps her clients feel liberated and awaken their \"inner beast,\" hehe. I have the beer, but I don't know about \"inner beasts.\" Do you know anything that could make it...wilder?",
+        "desiredEffects": [
+            "Libido"
+        ],
+        "hint": "Something to spark the sexual desire when consumed"
+    },
+    "Brewer_5_SleepBeer": {
+        "qText": "Hello! I need your help. The local tavernkeeper asked me to come up with a special beer for especially rowdy guests. They drink too much and accost other customers. The tavernkeeper wants to be able to give them some kind of sedative beverage on the house...Any ideas?",
+        "desiredEffects": [
+            "Sleep"
+        ],
+        "hint": "Something to turn them into a slumber"
+    },
+    "EvilDude_1_Poison": {
+        "qText": "I need a strong and fast-acting poison. I'd appreciate it if you saved your questions and kept our little deal a secret. Your silence will be generously rewarded, of course.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A toxic substance is needed to help out"
+    },
+    "EvilDude_2_Poison": {
+        "qText": "Greetings. I need more poison. I don't think I need to remind you of the terms of our deal.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Once more he requires something toxic"
+    },
+    "EvilDude_3_Acid": {
+        "qText": "Greetings. Today I need acid. Don't let me down.",
+        "desiredEffects": [
+            "Acid"
+        ],
+        "hint": "This may need to eat through metal and other surfaces"
+    },
+    "EvilDude_4_Hallucinations": {
+        "qText": "Greetings. I need a potion that confuses the senses and clouds the mind.",
+        "desiredEffects": [
+            "Hallucinations"
+        ],
+        "hint": "Something to make them see illusions"
+    },
+    "EvilDude_5_Invisibility": {
+        "qText": "Greetings. I need a potion that allows me to hide from the eyes of unwanted witnesses. It's a difficult task, but I'm sure you'll manage it.",
+        "desiredEffects": [
+            "Invisibility"
+        ],
+        "hint": "Allow him to not be seen through the eyes of witnesses"
+    },
+    "Fisherman_1_HealHand": {
+        "qText": "Greetings! I recently went fishing at a lake in the forest. I cast my line out and immediately got a bite! I reeled it in and tried to get it off the hook, but that fish had some teeth! It bit me on the palm and flopped back in the water. Now my hand is all swollen. How can I fish now?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Something to cure the pain of the bite"
+    },
+    "Fisherman_2_LightBait": {
+        "qText": "Hello Alchemist! How is business? I heard about a rare fish spotted nearby. It comes out at night and only eats fireflies. Do you follow? If you can give me some kind of glowing potion, I'll make some bait just for that fish and catch it.",
+        "desiredEffects": [
+            "Light"
+        ],
+        "hint": "You need to imbue the bait with some luminescence"
+    },
+    "Fisherman_3_FrostDragonFish": {
+        "qText": "Hey there! I'm trying to catch a mean fish...Believe it or not, the little thing breathes fire. It melted my whole rod last time! Could you give me a frost potion for my bait? If the fish swallows it, maybe its heat will back off a bit, right?",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "You may need to freeze the fish from the inside out"
+    },
+    "Fisherman_4_SlowDownCrazyFish": {
+        "qText": "Hi! Listen, there's a crazed fish in the area. All the fishermen know it. As soon as it takes the bait, it goes mad and swims like hell. No line can hold it! I want to soak my bait in a potion that will slow the fish down. Please help!",
+        "desiredEffects": [
+            "SlowDown",
+            "Sleep",
+            "Hallucinations"
+        ],
+        "hint": "You can make the fish fall to a slumber, see illusions. You can also reduce the speed of the fish"
+    },
+    "Fisherman_5_FlyShyFish": {
+        "qText": "Hey there! I'll let you in on a secret: there's a spot on the river nearby with the tastiest fish you've ever had in your life! Only problem is they're awfully skittish. As soon as they smell your boat, they're gone! Yep, it's hard to get close enough. Except by air...If only there were a potion that makes people float over the water!",
+        "desiredEffects": [
+            "Fly"
+        ],
+        "hint": "If only they could rise up into the air and float over the water..."
+    },
+    "Fisherman_6_MightyFish": {
+        "qText": "Hello! I came for your help. I made a bet with guys that I could catch this one fish. I would do it, but it's going to hurt...It can tear the rod out of your hands or pull a fisherman right into the water. I won't manage without one of your potions.",
+        "desiredEffects": [
+            "Berserker",
+            "Sleep",
+            "SlowDown",
+            "Hallucinations"
+        ],
+        "hint": "Give the fisherman some strength, or reduce the speed of the fish"
+    },
+    "Guard_1_HealShoulder": {
+        "qText": "Alchemist, give me a healing potion. A bandit shot me through the shoulder with an arrow yesterday. The wound isn't serious, but I can't lie around for a whole month. I need to get back to work soon.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Some medicine to heal the pierced skin"
+    },
+    "Guard_2_HealHead": {
+        "qText": "Alchemist, I need another healing potion. Yesterday I was protecting some peasants from bandits. I almost had them...But one of them crept up behind me and knocked me out. Luckily, the peasants managed to flee, and none were hurt. But I got a bad concussion. My head won't stop pounding.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A potion to heal his headache"
+    },
+    "Guard_3_HealHip": {
+        "qText": "Alchemist, I need a healing potion. I was chasing a thief yesterday. When I tried to grab him, he got me in the hip with a dagger. It's not a mortal wound, but I'm limping a bit now. I need to recover quickly and get back to work protecting the town.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Some medicine to cure the pain from the dagger wound"
+    },
+    "Guard_4_StoneSkin": {
+        "qText": "Hello, Alchemist. I'm always getting into tight situations in the service - getting shot at by robbers or stabbed by bandits. I have a tough job, but I defend the residents of this town, and that's what counts. Anyway, I heard about a potion that makes your skin hard as a rock. Do you have anything like that? I could definitely use it.",
+        "desiredEffects": [
+            "StoneSkin"
+        ],
+        "hint": "If only his skin was rock hard to deflect arrows and knives"
+    },
+    "Witch_1_PoisonWitchRecipe": {
+        "qText": "Well hello. I heard there was a new alchemist in town, so I came to say hi. I'm the local sorceress. Or witch if you like. That's what the locals call me. Anyway, I didn't just come in out of curiosity. Do you happen to carry poison in your shop?",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A little bit of toxic substance for the witch"
+    },
+    "Witch_2_ManaRecovery": {
+        "qText": "Are you well, Alchemist? No one has put a curse on you? *Laughs* I'm quite tired today, even laughing is a burden...You understand, sorcery is hard work! Do you have a potion that restores mana by chance?",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help restore their spell-casting ability"
+    },
+    "Witch_3_GrowthMushrooms": {
+        "qText": "Hello, Alchemist! I need special mushrooms for a certain ritual. They usually appear around this time, but they haven't come out yet. I need them right now, so I was hoping to speed up their growth. Do you have a potion for that?",
+        "desiredEffects": [
+            "Growth"
+        ],
+        "hint": "You need to help the mushrooms grow quicker than normal"
+    },
+    "Witch_4_FlyEnchantBroom": {
+        "qText": "Hello, Alchemist. Very soon, a coven of witches will be held in a distant place, and I want to take part. But first I need to enchant my broom so it can fly...Usually witches enchant brooms themselves, but I don't have time. Be a dear and help me.",
+        "desiredEffects": [
+            "Fly"
+        ],
+        "hint": "Imbue the broom with a potion that can rise up into the sky"
+    },
+    "FireMountainIceElemental": {
+        "qText": "Hello! I was summoned to deal with an ice elemental tormenting a mountain village. An ordinary sword is useless against elementals, but if you can give me a fire potion, I'll coat my blade with it and take that elemental down.",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "This situation calls for something to bring the heat"
+    },
+    "HealFathersBack": {
+        "qText": "My father and I were heading to market, but his back went out on the way. We're almost there, but he can't get out of the cart! Do you have any healing ointment to help the old man straighten his back?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Some medicine to cure the muscles in his back"
+    },
+    "HealHusbandHand": {
+        "qText": "Hello. My silly husband managed to pinch his hand in the gate yesterday. Now, instead of working, he's lying on the bench supposedly waiting for his hand to heal. Do you have anything to mend the hand so the bum can get back to work?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little medicine to drive away the pain from his hand"
+    },
+    "IceSaveCropsFromElemental": {
+        "qText": "What a coincidence! Command sent me to fight an elemental too. But this one is a fire elemental. He's gotten into the habit of strolling through the wheat fields lately and starting fires. Do you have anything that can cool him down?",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "This situation requires a very chill attitude"
+    },
+    "PoisonCropBugs": {
+        "qText": "Good afternoon. We have trouble in our village. Invasive beetles have taken up in our wheat fields! They're eating our harvest, and they're doing it fast! We need to poison them all, or our harvest is completely doomed.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Give the beetles something toxic to ingest"
+    },
+    "PoisonMouse": {
+        "qText": "Hello. Mice have infested my hut, even though I have a cat! The cat just lies on the cabinets and watches the mice do whatever they please. So, I need a vial of rat poison. It'll be easier to poison those rodents than wait for the stupid cat's help.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "The mice need to consume something toxic"
+    },
+    "FireExWifeRevenge": {
+        "qText": "My husband recently left me for another woman. I eventually found their love nest. I can't let him be happy with someone else. I want him to feel the fire of my jealousy. I want their home and their feelings to go down in flames.",
+        "desiredEffects": [
+            "Fire",
+            "Explosion"
+        ],
+        "hint": "A big boom might be handy, although some prefer a bit of heat for revenge..."
+    },
+    "FireForCooking": {
+        "qText": "Hello. I lost my flint somewhere, and now I can't light a fire. My husband is coming home with friends tonight, and I need to cook them some dinner. Do you have anything to help me light a fire in the hearth?",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "She needs to bring the heat"
+    },
+    "HealBumpOnTheHead": {
+        "qText": "I was just walking down the street minding my own business when a flowerpot fell out of nowhere and bonked me right on the head! Good thing I've always had a thick skull, or I'd be out cold. But I've got a nice big bump on my head now. What can I rub on it to make it go away?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A nice medicine is required to heal the pain of the bump"
+    },
+    "HealHousewifeFootBlisters": {
+        "qText": "I have so many cares and worries every day. I wash, cook, shop, and look after the children...I can spend all day on my feet and not sit down to rest once! Because of that, my feet are covered in calluses and corns. Perhaps you have a remedy for them?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "There is only one thing to cure this woman of her painful feet"
+    },
+    "HealUpsetStomach": {
+        "qText": "I had some strange soup for lunch today, and now I don't feel so good. Oof...Do you have anything for a troubled gut? Ugh...No more gastronomic adventures...",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Maybe some medicine to soothe their troubled gut"
+    },
+    "IceColdAle": {
+        "qText": "Good day! I'm going on a long crusade soon, and what better to support a fighting spirit than a flask of ale? The problem is the sun will heat up my flask. I think, if I add a drop of frost potion to it, the ale will stay ice cold even in the summer's heat. Sound right to you?",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "They need to keep their drink cool for their journey"
+    },
+    "IceKeepFruitsFresh": {
+        "qText": "Hello. I'm a fruit merchant, and I often have to transport goods over great distances. Some fruits tend to spoil on the road due to heat. My friend told me I could pour a frost potion in the bottom of my cart to keep the fruits fresh for days. Do you have a potion like that?",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "Do you really need a hint for this?"
+    },
+    "LightTreasureDiggers": {
+        "qText": "My friends and I found a map with a red cross on it, and telling by the layout of the map, the place is not too far from here. It must be a buried treasure! We can make it to the spot by nightfall, but we'll need a light source to see where to dig.",
+        "desiredEffects": [
+            "Light",
+            "Fire",
+            "SharpVision"
+        ],
+        "hint": "Something to see in the dark, or maybe keep them warm and provide them with light to see"
+    },
+    "PoisonBarabashka": {
+        "qText": "A tiny but very troublesome creature has gotten into my home. I haven't spotted it yet, but it already ate its way through my pickles and pantry. And now every night it eats the porridge I leave for the morning. I want to poison the porridge to finally put an end to the evil sprite.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Mix in something toxic with the porridge for the creature"
+    },
+    "PoisonMonsterHunt": {
+        "qText": "I'm not the one to challenge monsters head to head, I'm the one who slays them and doesn't end up dead! Sometimes it's easier to shoot a monster with a poison arrow and wait a bit than get up close. On that note, I need a good poison. The daredevils can have the rest.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A strong toxic substance should do the trick here"
+    },
+    "BattlePotion2": {
+        "qText": "Greetings! I'm dealing with a gang of thugs today. I need a potion that not only makes my sword strike true but also imbues it with magic power. What kind of magic? Well, I trust your judgment.",
+        "desiredEffects": [
+            "Fire",
+            "Poison",
+            "Frost",
+            "Lightning"
+        ],
+        "hint": "Only 4 magical effects can help"
+    },
+    "ExplosionClearPassage": {
+        "qText": "The road from my village to town passes through the cliff tunnel. When I went to town, everything was fine, but on the way home I found the tunnel blocked! Now a barrel of gunpowder would come in handy...Do you happen to have that?",
+        "desiredEffects": [
+            "Explosion"
+        ],
+        "hint": "A big boom is quite handy here"
+    },
+    "FireCookWildBoar": {
+        "qText": "Well met! Me and the guys are going hog hunting! I'm sure we'll nab at least a couple. We'll sell one at the market, but we want to roast the other one right in the forest. We need something to get the fire going, or our plans will fall through.",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "You need to bring the heat to cook this hog"
+    },
+    "HealCaravanAmbush": {
+        "qText": "Be a friend and give me a healing remedy on the stronger side. Some guys and I were escorting a trade caravan yesterday. Then we got attacked by bandits...I was stabbed with a knife and fell out of the cart onto the road. I'm lucky to be alive...Now I need to recover and catch up with the caravan.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little something to mend the wounds"
+    },
+    "HealKidsLeg": {
+        "qText": "Please help! My son was playing with friends in the forest and twisted his ankle jumping from a tree. Please help heal my little boy's leg!",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little something to cure the pain for the ankle"
+    },
+    "IceForTavernDrinks": {
+        "qText": "Good afternoon! The owner of the nearby tavern sent me. He needs a potion that can turn water to ice. Buying ice delivered from the mountains is very expensive, but our patrons love cold beer and ale. Help us out, and we'll treat you to a fresh draught next time you stop by!",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "You need something to quickly chill the water"
+    },
+    "LightAfraidOfCandles": {
+        "qText": "Hello. A very strange guest came to our hotel. He says he has a great fear of fire and even refuses to use candles. However, he still demands light in his room. Do you have anything that can replace candles?",
+        "desiredEffects": [
+            "Light"
+        ],
+        "hint": "Something to illuminate the room without heat"
+    },
+    "LightToAmbushBandits": {
+        "qText": "Greetings. Our unit is making ready to attack a camp of bandits tomorrow. We want to ambush them at night when their leader is there. We need something that can light up the area and blind the bandits, so we can catch them off guard.",
+        "desiredEffects": [
+            "Light",
+            "Explosion"
+        ],
+        "hint": "A big boom might be handy, however the power of the sun also helps"
+    },
+    "ManaPotionForBattleMage": {
+        "qText": "Hi there. I was heading to my unit's rendezvous point when I saw your shop. I thought I'd stop in and buy a potion for our battle mage. He's been complaining recently that his magical powers have waned. I heard there was a potion that helps mages to recover. Do you have one?",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help restore the spell-casting ability of the mage"
+    },
+    "PoisonNeighborsCattle": {
+        "qText": "The neighbor's livestock has gotten into the habit of eating the vegetables out of my garden! I'm tired of chasing sheep and goats away every night. I want to spice my vegetables up with something special, so my neighbor has fewer livestock, and I have fewer problems!",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A toxic substance might help get rid of the animals once and for all..."
+    },
+    "ExplosionMonsterInWell": {
+        "qText": "I have a well on my property, and scary sounds started coming from it recently! My neighbors and I listened and listened to those sounds, and we believe it's a monster trying to climb out of it. So, I decided to throw a bomb in the well to kill the monster and collapse the well - in case there's more than one creature down there.",
+        "desiredEffects": [
+            "Explosion",
+            "Fire"
+        ],
+        "hint": "Some heat might be handy or even a big boom..."
+    },
+    "FireBurnWitchHouse": {
+        "qText": "There's a house in our village where a witch once lived. She died a long time ago, and no one has lived in the house since. But lately terrible screams can be heard coming from it at night. Now the villagers want to burn the house down, but not with ordinary fire. We heard enchanted fire is more reliable.",
+        "desiredEffects": [
+            "Fire",
+            "Explosion"
+        ],
+        "hint": "You need to turn up the heat or make a massive impact in this house"
+    },
+    "GrowthGrandmasDream": {
+        "qText": "My granny always wanted apple trees and pear trees in her yard. I planted some, but they'll take a long time to grow, of course, and my granny isn't getting any younger...Perhaps you have some magic fertilizer to make them grow like in that fairy tale about magic beans?",
+        "desiredEffects": [
+            "Growth"
+        ],
+        "hint": "The problem isn't the quality but the time it takes to grow"
+    },
+    "HeaICow": {
+        "qText": "Hello! The cattle in our village are sick. One neighbor already lost a goat, and another lost a sheep. Now my cow has fallen ill. Got anything to help my beloved bovine feel better? I feel bad for her, and the farm needs milk.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "The cow needs some medicine to cure the illness"
+    },
+    "IceCrossRiver": {
+        "qText": "My home lies on one side of a river, but the rest of my village is on the other. Every time I need to go to town, I make a long detour to the bridge. I'm sick of it, and I want to try freezing the river, so I can pass quickly over the ice to the other side. Do you think it'll work?",
+        "desiredEffects": [
+            "Frost",
+            "Bounce",
+            "Fly"
+        ],
+        "hint": "The river needs to be very chilly. Maybe even travel over the river somehow"
+    },
+    "LightningKillGolem": {
+        "qText": "I'm an adventurer, and I recently came across some ancient catacombs. I think their depths may contain great treasures. How do I know? Because an iron golem is blocking the way! The problem is no fire, poison, or frost will take it down. I need something else...",
+        "desiredEffects": [
+            "Lightning",
+            "Explosion",
+            "Acid"
+        ],
+        "hint": "A big boom might work, however something corrosive that can eat through metal might help"
+    },
+    "LightVillageFestival": {
+        "qText": "Our village is preparing for a local holiday. There will be dancing, reveling, and mountains of food! We also want to hang lanterns all over town that will burn for several days until the celebration ends. Do you have anything that will burn longer than oil or candles?",
+        "desiredEffects": [
+            "Light",
+            "Fire"
+        ],
+        "hint": "A little heat can be nice here, but don't forget about the power of the sun"
+    },
+    "ManaForHealer": {
+        "qText": "Yesterday there was an intense skirmish outside of town between the guardsmen and bandits. There were many wounded, and us healers tended to them all night. We managed to save everyone, but spent a lot of energy, so I was looking for something to restore my magical powers.",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help restore their spell-casting ability"
+    },
+    "PoisonCockroaches": {
+        "qText": "Cockroaches have infested my cellar. They're running all over my food stores and getting into bags of grain. It's terrible! I can't live like this! Give me something that will get rid of those buggers once and for all.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A toxic substance will take care of these cockroaches"
+    },
+    "SleepDeprivedSoldier": {
+        "qText": "I got really unlucky with my fellow soldiers in the barracks. After lights out, they all start snoring like a herd of swines! I don't know how long it's been since I had a decent night's sleep...Do you have a sleeping potion?",
+        "desiredEffects": [
+            "Sleep",
+            "Hallucinations"
+        ],
+        "hint": "A nice deep slumber will help, or even vivid dreams"
+    },
+    "VisionInvisibleWizard": {
+        "qText": "There are rumors of a sorcerer nearby with a strange scar on his forehead. My unit was ordered to arrest him. But the sorcerer has an invisibility cloak. I need a potion that will expose him, or we'll never catch him.",
+        "desiredEffects": [
+            "SharpVision"
+        ],
+        "hint": "A little something to help see through anything magical"
+    },
+    "BattlePotion3": {
+        "qText": "All the guys in my unit have enchanted swords, and I've always envied them for it. I was hoping to enchant my sword somehow too. With fire perhaps? Or lightning? Or should I just rub poison on it? But what if I cut myself...What should I choose?",
+        "desiredEffects": [
+            "Fire",
+            "Poison",
+            "Frost",
+            "Lightning"
+        ],
+        "hint": "Some heat or cold might help. Try not to spark something bad to ingest"
+    },
+    "FireJealousFarmer": {
+        "qText": "Why does my neighbor always have a bounteous harvest and fat cattle, while I can't grow anything, not to say all my animals died out by the end of the winter? How is that fair? It isn't. You must have some fire potions, right? I need one to send my neighbor some fiery justice!",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "A fire potion is mentioned"
+    },
+    "GrowthBalconyGarden": {
+        "qText": "I recently decided to grow a small garden on the balcony. I already bought and arranged all the plants I want, but they'll take forever to grow, and I want a nice garden right now. Do you have a way to make my flowers grow faster?",
+        "desiredEffects": [
+            "Growth"
+        ],
+        "hint": "Part of the effect is mentioned in the request"
+    },
+    "HealBruisesAfterRobbery": {
+        "qText": "Three robbers attacked me yesterday. They wanted my money, but couldn't find any, so they gave me a good beating instead. But I did have money on me! I just hid it in a safe place. Though, now I have to spend the money on a healing potion. My whole body aches...",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Some medicine might help take the pain away"
+    },
+    "HealCutFingers": {
+        "qText": "Greetings. I work at the smithy making weapons. I spend all day sharpening swords and daggers. I've honed hundreds of blades now, and I know what I'm doing, only I'm a bit clumsy, and I cut myself all the time. I need a potion to heal my injured fingers faster, or I won't be able to work.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little medicine can cure those little cuts"
+    },
+    "HealHusbandsFever": {
+        "qText": "My husband has been ill for some time now, but recently he got even worse. Now he can't even get up. He has a fever and sweats. Do you have any medicine for my poor husband?",
+        "desiredEffects": [
+            "Healing",
+            "Frost"
+        ],
+        "hint": "Some medicine to drive the fever away. Maybe something to cool him down as well"
+    },
+    "HealKnifeWounds": {
+        "qText": "I was recently in a tussle with bandits, and someone disarmed me, so I had to grab one of their knives with my bare hand. As you can see, I won the fight but was left with some deep wounds that need healing.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Some medicine will help heal the wounds"
+    },
+    "HealWoodmansLeg": {
+        "qText": "Hello! A log fell on a lumberjack at the sawmill. He's alive, but his leg is in bad shape. Got anything to help it heal?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little medicine to heal his wounded leg"
+    },
+    "ManaFortuneteller": {
+        "qText": "Hello, alchemist. Do you have a potion that restores magical powers? You might not be able to tell, but I'm a skilled fortuneteller. I get many visitors, but sometimes I need to have some rest. Help me, and fortune is sure to smile on you!",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help restore their fortune telling ability"
+    },
+    "PoisonAnts": {
+        "qText": "A massive anthill appeared near my house and now ants are everywhere: on the floor, on the walls, on the ceiling, even in the food! It's unbearable! I need something to get rid of those annoying bugs, and fast.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A toxic substance can rid the house of the ants"
+    },
+    "PoisonKillBigBandit": {
+        "qText": "I found him - the bandit who killed my buddies. He's huge and covered in armor from head to toe that no sword can pierce. But I don't need a sword. I'll dip an arrow in poison and shoot him right through his visor. His death will be slow and painful...",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Maybe a toxic substance can help take care of him..."
+    },
+    "PoisonUnfaithfulHusband": {
+        "qText": "My husband is cheating on me. I know everything, but I'm playing dumb. Very soon I will take my revenge. Our wedding anniversary is coming up. We're having a romantic dinner for two as always. I already bought a good wine. Now I just need a good poison.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Something toxic to hurt him from the inside will help"
+    },
+    "SleepWifeFraud": {
+        "qText": "Hello! I need a sleeping potion for my husband. He needs to sleep deep tonight. I don't want him to catch my lover and me vanishing into the night with all the money and valuables. I think that would really upset him. Don't you think?",
+        "desiredEffects": [
+            "Sleep"
+        ],
+        "hint": "Help send her husband to the land of nod"
+    },
+    "Rogue_ExplosionIsArt": {
+        "qText": "I love explosions! They are a true art form! Yesterday I was caught in a downpour and now my bombs are all useless. I'll go crazy if I don't blow something up today!",
+        "desiredEffects": [
+            "Explosion"
+        ],
+        "hint": "A big boom is handy here. It is indeed an art form"
+    },
+    "Rogue_GrowthGardenAccident": {
+        "qText": "Someone had...an accident in the garden. The sight is not for the faint of heart. I need the flowers and grass to grow rapidly and help me hide the mess...",
+        "desiredEffects": [
+            "Growth"
+        ],
+        "hint": "They are not looking for a quality yield...but one with quantity"
+    },
+    "Rogue_InvisibilityDarkwing": {
+        "qText": "I am the terror that flaps in the night! I am the deadly blade that always hits its mark. I am the invisible hand of fate. Well, to be honest, I'm not that invisible...Maybe you can help me with that?",
+        "desiredEffects": [
+            "Invisibility"
+        ],
+        "hint": "A nice potion to make them unseen by the human eye"
+    },
+    "Rogue_OpenStolenChest": {
+        "qText": "Recently, I managed to get my hands on a chest. But it has a very intricate lock that I can't open. And the chest itself is so strong that even a sledge won't smash it! Can you help me open it?",
+        "desiredEffects": [
+            "Acid",
+            "Explosion"
+        ],
+        "hint": "Something which could eat through the metal, or even pop it open"
+    },
+    "Rogue_UnsafeWaterpool": {
+        "qText": "The person I need to, let's say, \"take care of\" goes to the bathhouse a lot. They find the steam quite good for their health. Do you have anything to add to a bucket of water to make the steam less...healthy?",
+        "desiredEffects": [
+            "Poison",
+            "Acid",
+            "Explosion"
+        ],
+        "hint": "Maybe a really harmful substance could be mixed with the steam"
+    },
+    "MonsterHunter_1_HealSwallow": {
+        "qText": "Hello, alchemist. Help me replenish my supply of potions. I had some with me, but the hunt turned out...wild, and I had to drink every last one. I need a potion that accelerates wound healing. Preferably not very toxic.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A nice medicine is good for a quick heal"
+    },
+    "MonsterHunter_2_FireSamum": {
+        "qText": "Hello again, alchemist. The residents of a nearby village asked me to deal with the ghouls that have been terrorizing them. Apparently, they have a nest somewhere near the village. To destroy it, I need a bomb, or something combustible at least. Will you help me?",
+        "desiredEffects": [
+            "Fire",
+            "Explosion"
+        ],
+        "hint": "A big boom is quite handy for this Witcher"
+    },
+    "MonsterHunter_3_SpecterOil": {
+        "qText": "Hello, alchemist. I'm going on a ghost hunt soon. This particular undead is invulnerable to steel, but fortunately not to magic. Give me a potion that imbues my blade with magical power, and I will toss you a coin.",
+        "desiredEffects": [
+            "Fire",
+            "Lightning",
+            "SlowDown"
+        ],
+        "hint": "May need to pack some heat, however a spark could slow things down"
+    },
+    "BattleMageRestore": {
+        "qText": "I'm a battle mage. Various potions come in handy after battle to restore my mana. I need some extras on hand just in case.",
+        "desiredEffects": [
+            "Healing",
+            "Mana"
+        ],
+        "hint": "You need to help restore their spell-casting ability, or even their own body"
+    },
+    "BrokenLegAfterJump": {
+        "qText": "I tried to jump over a ravine and broke my leg...They say it will take a long time to heal. Can we speed up the process somehow?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A nice medicine will see to healing the bones quickly"
+    },
+    "DaggerPoison": {
+        "qText": "I want to dip my blade in your strongest poison. My enemies will writhe in agony...yes...",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Help imbue the sword with the most fatal of substances"
+    },
+    "FireArrows": {
+        "qText": "I need fire arrows to set enemy buildings on fire from a distance. But I only have normal arrows...",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "Looks like you need to heat things up"
+    },
+    "FireSword": {
+        "qText": "I want to imbue my sword with fire to smite my enemies with tongues of flame!",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "Make the sword glow with a blaze"
+    },
+    "FrostArrows": {
+        "qText": "I need ice arrows. I heard they were highly effective.",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "It might become a little chilly at the tip of the arrow"
+    },
+    "Headacke": {
+        "qText": "I've had a headache for three days. I can't sleep at night...Can you help me?",
+        "desiredEffects": [
+            "Healing",
+            "Sleep"
+        ],
+        "hint": "A medicine is nice, but they can also benefit from a slumber"
+    },
+    "HealAfterRogues": {
+        "qText": "Some bandits attacked me. I fended them off, but they stuck me. The wound isn't deep, but it hurts like crazy. Do you have any kind of healing potion?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little medicine to help cure the pain from the wound"
+    },
+    "HealHandRash": {
+        "qText": "I have some kind of rash on my arm. Do you have any healing ointment?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A nice healthy potion to make the rash vanish"
+    },
+    "IgniteWetWood": {
+        "qText": "My firewood at home is all wet. I can't light it. Have anything to help me get it lit?",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "Using some heat will get things going"
+    },
+    "IgniteWithFirePotion": {
+        "qText": "I need to start a fire and it has to work. That's why I'm here. A fire potion is the best option in this situation.",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "A fire potion was mentioned..."
+    },
+    "LavaGiant": {
+        "qText": "I have a lava giant to slay. Surely you have something to aid me in battle.",
+        "desiredEffects": [
+            "Frost",
+            "Healing",
+            "Berserker"
+        ],
+        "hint": "Some ferocious strength is needed for this soldier, or something to cool down the giant"
+    },
+    "MagicalPowers": {
+        "qText": "I need a potion that grants magic powers.",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help give them the ability to cast spells"
+    },
+    "ManaDepleted": {
+        "qText": "My mana is running low...I need to restore my power.",
+        "desiredEffects": [
+            "Mana"
+        ],
+        "hint": "You need to help restore their spell-casting ability"
+    },
+    "MineLightSource": {
+        "qText": "I work in a mine, and we can't use lanterns now because we exposed a gas spring that will explode if it touches flame. I need to light my way somehow. Any ideas?",
+        "desiredEffects": [
+            "Light",
+            "SharpVision"
+        ],
+        "hint": "Maybe look to the power of the sun, or something to see in darkness"
+    },
+    "NightHerbalism": {
+        "qText": "I want to enter the forest at night to gather some herbs. I won't be able to see anything in the dark, but my hands will be full of herbs, so I won't be able to carry a lantern.",
+        "desiredEffects": [
+            "Light",
+            "SharpVision"
+        ],
+        "hint": "Harness the power of the sun, or the ability to see in the night"
+    },
+    "PoisonArrows": {
+        "qText": "Hello. My request is simple - I need poison arrows. I have the arrows, but the poison is up to you.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Maybe a toxic substance can help him out"
+    },
+    "PoisonRats": {
+        "qText": "Rats have infested my barn. I need to poison them...",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "A highly toxic substance can take care of these rats..."
+    },
+    "SprayPosionToKillBeetles": {
+        "qText": "Pests have infested my home. I want to spray a poisonous cloud there and leave for a month.",
+        "desiredEffects": [
+            "Poison"
+        ],
+        "hint": "Pests would be gone with this toxic substance"
+    },
+    "StrongWound": {
+        "qText": "Hello! I was badly injured in battle recently. I think I need some medicine, or things could go south.",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little medicine to mend the wounds"
+    },
+    "SwordEnhancementOil": {
+        "qText": "I want to rub my sword with something that will make it more deadly.",
+        "desiredEffects": [
+            "Fire",
+            "Frost",
+            "Poison",
+            "Lightning"
+        ],
+        "hint": "Two begin with F, another harmful when ingested. The last strikes with might from the sky"
+    },
+    "SpikeEnhancementOil": {
+        "qText": "I want to rub my spear with a battle potion.",
+        "desiredEffects": [
+            "Fire",
+            "Frost",
+            "Poison",
+            "Lightning"
+        ],
+        "hint": "Maybe bring the heat, or give them the chills."
+    },
+    "ThrowingBattlePotion": {
+        "qText": "I need a potion that I can throw at enemies in battle.",
+        "desiredEffects": [
+            "Acid",
+            "Fire",
+            "Frost",
+            "Poison",
+            "Lightning",
+            "Explosion"
+        ],
+        "hint": "Ac___ / F___ / Po___ / Li___ / Ex____"
+    },
+    "ThrowingFirePotion": {
+        "qText": "I need a fire potion that I can toss into a lair of monsters.",
+        "desiredEffects": [
+            "Fire"
+        ],
+        "hint": "A fire potion is mentioned..."
+    },
+    "ThrowingFrostPotion": {
+        "qText": "I need a potion that can freeze an enemy.",
+        "desiredEffects": [
+            "Frost"
+        ],
+        "hint": "The enemy needs to get a bit chilly"
+    },
+    "ToothPain": {
+        "qText": "My tooth has been hurting for some time. Now the pain is unbearable. Is there anything you can do?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "Some medicine to take the pain away"
+    },
+    "WoundFesters": {
+        "qText": "I was injured recently, and it looks like the wound is starting to fester. What should I do?",
+        "desiredEffects": [
+            "Healing"
+        ],
+        "hint": "A little medicine to drive away the bacteria"
+    },
+    "ClimbTower": {
+        "qText": "I need to climb a tall tower, but I have no idea how. Is there a magic potion to help me pull it off?",
+        "desiredEffects": [
+            "Fly",
+            "Bounce"
+        ],
+        "hint": "They need to rise or bound up into the air"
+    },
+    "GoDownTheMountain": {
+        "qText": "I need to get down a mountain swiftly and safely. Surely you can think of something?",
+        "desiredEffects": [
+            "Fly"
+        ],
+        "hint": "They need to sail smoothly to the ground"
+    },
+    "HallucinationMushrooms": {
+        "qText": "I ate a mushroom recently and, wow...It was interesting. There were so many colors and flowers swirling around me! But I can't remember what the mushroom looked like. You must be an expert in that sort of thing. Can you make me a broth from those mushrooms?",
+        "desiredEffects": [
+            "Hallucinations"
+        ],
+        "hint": "They want to lose their grip from reality"
+    },
+    "HelpWomanLover": {
+        "qText": "Hello, potions merchant! I'll get right to business - I'm a great lover of women, but work and stress...Anyway, when things get interesting, I have...problems. You're a master of your trade, right? Got anything I can rub on my sword? Catch my drift?",
+        "desiredEffects": [
+            "Libido"
+        ],
+        "hint": "Something to increase the sexual desire inside of him"
+    },
+    "HideFromBandits": {
+        "qText": "A band of cutthroats is looking for me! I think they've already tracked me down. I need to hide quick! Disappear, you know what I mean?",
+        "desiredEffects": [
+            "Invisibility"
+        ],
+        "hint": "Something to make them not visible to the human eye"
+    },
+    "InvisibilityInCave": {
+        "qText": "I need to get into a cave unnoticed...Do you have a potion for that?",
+        "desiredEffects": [
+            "Invisibility"
+        ],
+        "hint": "Something to go completely out of sight"
+    },
+    "RelaxAfterCrusade": {
+        "qText": "I just came from a harsh campaign. I want to relax...",
+        "desiredEffects": [
+            "Hallucinations",
+            "Libido"
+        ],
+        "hint": "A little something to spark their more intimate side, or help them see the world differently"
+    },
+    "SneakNearMonster": {
+        "qText": "I need to get past a monster...I can't go around it, only over, but I can't fly! And as soon as I get close, it'll see me and gobble me up.",
+        "desiredEffects": [
+            "Fly",
+            "Invisibility"
+        ],
+        "hint": "Maybe move up into the air or be unseen through the monsters eyes"
+    },
+    "WifeLowLibido": {
+        "qText": "My wife...We're doing well, except, um...Let's just say we'd like to give each other more attention in a certain way. I don't have any problems there, but she's just never in the mood. Can you come up with anything? Some kind of tincture, for instance?",
+        "desiredEffects": [
+            "Libido"
+        ],
+        "hint": "You need to ignite the sexual desire within her"
+    },
+    "ArtistTrip": {
+        "qText": "Hello. I'm a creative person, you know, and my most creative thinking happens when I'm asleep. But I can't just fall asleep whenever I want to! What should I do?",
+        "desiredEffects": [
+            "Sleep",
+            "Hallucinations"
+        ],
+        "hint": "A nice slumber may do, however it's nice to break from reality too"
+    },
+    "BanditRaidBuff": {
+        "qText": "Our gang is going raiding soon, and my buddy told me a few potions will make you invincible in battle. Well, can you brew anything like that?",
+        "desiredEffects": [
+            "Berserker",
+            "StoneSkin"
+        ],
+        "hint": "A potion to make them ferocious might help. However something to protect their skin is good too"
+    },
+    "BuffForCrusade": {
+        "qText": "We have a raid soon, and I think the slaughter will be fierce. I'm afraid I won't get out alive. I'd like to increase my chances a bit.",
+        "desiredEffects": [
+            "Healing",
+            "Berserker",
+            "StoneSkin"
+        ],
+        "hint": "Some ferocious strength is needed for this soldier. However some healing and protection might help as well"
+    },
+    "CharmLady": {
+        "qText": "There's this girl...I'm in love with her, but she won't even look at me! I need to make her love me, understand?",
+        "desiredEffects": [
+            "Charm"
+        ],
+        "hint": "They need something to enchance the feelings the girl has for him"
+    },
+    "CropsAreEaten": {
+        "qText": "Weevils have eaten nearly our entire harvest. What should we do?",
+        "desiredEffects": [
+            "Growth",
+            "Crop"
+        ],
+        "hint": "Maybe something to produce quickly, or even a better quality yield"
+    },
+    "FightFrostDragon": {
+        "qText": "Soon I must face an ice dragon in battle. I heard potions might help me achieve victory.",
+        "desiredEffects": [
+            "Fire",
+            "Explosion",
+            "Healing",
+            "StoneSkin",
+            "Lightning",
+            "Acid",
+            "Poison"
+        ],
+        "hint": "This customer wants effects to harm the dragon. Maybe even some protection or healing"
+    },
+    "FindInvisible": {
+        "qText": "We're looking for someone, and we think he's using some kind of cloaking magic...You must have a potion to help us track him, right?",
+        "desiredEffects": [
+            "SharpVision"
+        ],
+        "hint": "A little something to help see through anything magical"
+    },
+    "GoBerserk": {
+        "qText": "I'm going to battle, and I need something to cope with the fear and pain! I want to be consumed with rage!",
+        "desiredEffects": [
+            "Berserker"
+        ],
+        "hint": "Some ferocious strength is needed for this soldier"
+    },
+    "GrowGardenTree": {
+        "qText": "I planted a tree in the garden, but it's growing so slowly. Is there any way to speed up the process?",
+        "desiredEffects": [
+            "Growth"
+        ],
+        "hint": "They need the tree to grow even faster than normal"
+    },
+    "GuardBadEyeSight": {
+        "qText": "I'm a guard. A big part of my job is spotting troublemakers, but my eyesight is going. Can you help me somehow?",
+        "desiredEffects": [
+            "SharpVision"
+        ],
+        "hint": "A little something to see even in the dark"
+    },
+    "HunterSight": {
+        "qText": "I'm a hunter, but my vision is getting worse and worse lately. I can't even see where I'm shooting sometimes. Can you help me with my eyes?",
+        "desiredEffects": [
+            "SharpVision"
+        ],
+        "hint": "Something to see everything even in the dark"
+    },
+    "HuntSlowDown": {
+        "qText": "I'm going hunting, and I need to dip my arrows in something to slow down my prey without spoiling the meat.",
+        "desiredEffects": [
+            "SlowDown",
+            "Sleep"
+        ],
+        "hint": "Maybe a tranquiliser or something to decrease the speed of the animal"
+    },
+    "JumpOverPit": {
+        "qText": "I need to leap over an enormous crevice, but I'm not much of a jumper. No one could jump a gap that wide. But I heard potions can give you magic powers. Can you come up with something?",
+        "desiredEffects": [
+            "Bounce",
+            "Fly"
+        ],
+        "hint": "They need something to rise into the air or bound over the gap"
+    },
+    "LockedChest": {
+        "qText": "I have a chest, but the key to it is...I lost it. I need to pick the lock somehow.",
+        "desiredEffects": [
+            "Explosion",
+            "Acid"
+        ],
+        "hint": "They need something to pop open or eat through the lock"
+    },
+    "MineExplosion": {
+        "qText": "I work in a mine, and we came across some really hard rock. We need to blast it away. Got anything explosive?",
+        "desiredEffects": [
+            "Explosion"
+        ],
+        "hint": "A big boom will be handy to make light work of this"
+    },
+    "NoApplesOnTrees": {
+        "qText": "Our apple trees just won't bear fruit. Maybe we can water them with something special?",
+        "desiredEffects": [
+            "Crop"
+        ],
+        "hint": "They need something to produce quality fruit"
+    },
+    "NoCropsAfterFire": {
+        "qText": "Our whole harvest was destroyed in a fire. If we don't restore our fields, we'll face a famine...",
+        "desiredEffects": [
+            "Growth",
+            "Crop"
+        ],
+        "hint": "They require something to fasten the yield or produce a better one"
+    },
+    "PassDeepRiver": {
+        "qText": "I need to cross a deep river. Can you suggest anything?",
+        "desiredEffects": [
+            "Frost",
+            "Bounce",
+            "Fly"
+        ],
+        "hint": "They need a potion to affect the river, or maybe avoid it altogether"
+    },
+    "PassOutGuard": {
+        "qText": "There's a guard who's making it really hard for me to get where I need to go. I want to put something in his food so he'll be out of commission for a short while. But I don't want to kill him.",
+        "desiredEffects": [
+            "Sleep",
+            "Hallucinations"
+        ],
+        "hint": "They need something to make the guards mind wander"
+    },
+    "QuarryExplosion": {
+        "qText": "I work in a quarry. Sometimes it's easier to just blow up a rock than work it for hours with a pick. Got anything that goes bang?",
+        "desiredEffects": [
+            "Explosion"
+        ],
+        "hint": "This is cause for something very destructive"
+    },
+    "RegrowForest": {
+        "qText": "Lumberjacks cut down our woods. The new trees will take years to grow...Do you have anything to speed up their growth?",
+        "desiredEffects": [
+            "Growth"
+        ],
+        "hint": "They need something to fasten the regeneration of the trees"
+    },
+    "SleepWorries": {
+        "qText": "I've had insomnia and intense anxiety for a week. I can't relax for a minute. Maybe you can help me?",
+        "desiredEffects": [
+            "Sleep",
+            "Hallucinations"
+        ],
+        "hint": "They need something to help the mind wander or rest"
+    },
+    "StickyTrap": {
+        "qText": "I want to make a trap that make trespassers stick to it and won't let them go. I'll make the trap mechanism, but I need a potion to make it sticky.",
+        "desiredEffects": [
+            "SlowDown"
+        ],
+        "hint": "This customer needs something to hinder the trespassers speed"
+    },
+    "Stoneskin": {
+        "qText": "I heard there were potions that can make your skin hard as a rock. Is it true? Do you have any?",
+        "desiredEffects": [
+            "StoneSkin"
+        ],
+        "hint": "This customer needs some protection"
+    },
+    "ThrowingAcidPotion": {
+        "qText": "I need a vial of acid I can throw.",
+        "desiredEffects": [
+            "Acid"
+        ],
+        "hint": "This customer needs a corrosive concuction"
+    },
+    "ThrowingLightningPotion": {
+        "qText": "I need a potion that can strike an enemy with lightning.",
+        "desiredEffects": [
+            "Lightning"
+        ],
+        "hint": "This customer needs to harness powers from the sky"
+    },
+    "ThunderHammer": {
+        "qText": "I want my hammer to have thunderous might! Like a storm laying waste to my enemies! May the gods witness my epic battles!",
+        "desiredEffects": [
+            "Lightning",
+            "Explosion"
+        ],
+        "hint": "This customer needs to harness the power of the sky and the earth"
+    },
+    "TunnelExplosion": {
+        "qText": "We're building a tunnel, and we need to blast away some mountain rock. Do you have any kind of bomb?",
+        "desiredEffects": [
+            "Explosion"
+        ],
+        "hint": "This customer needs a highly combustable substance"
+    },
+    "UnlockDoorSilently": {
+        "qText": "I need to break into a room unnoticed. I have no problem being stealthy, but the door has a really stubborn lock, and I can't blow it, too loud. Got any ideas?",
+        "desiredEffects": [
+            "Acid"
+        ],
+        "hint": "This customer needs something to eat through the lock"
+    },
+    "RaiseDeadElixir": {
+        "qText": "I need an elixir that can...raise the dead, let's say. There aren't many who can make such a thing, and even fewer who would dare. But you're up to it, right? Can I count on you?",
+        "desiredEffects": [
+            "Necromancy"
+        ],
+        "hint": "This customer needs to bring life back into lost souls"
+    },
+    "SecretOfNecromancy": {
+        "qText": "The dead don't talk too much...The dead don't get jealous...The dead don't betray...A select few have managed to learn secrets that ordinary people will never know. We can learn those secrets together, but first I need an elixir to get the process going...",
+        "desiredEffects": [
+            "Necromancy"
+        ],
+        "hint": "This customer needs something to talk to the unliving"
+    }
+}
