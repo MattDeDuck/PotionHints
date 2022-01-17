@@ -30,11 +30,7 @@
   
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>libs\Assembly-CSharp.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>libs\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>libs\Assembly-CSharp-nstrip.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>
